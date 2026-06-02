@@ -59,9 +59,6 @@ cover/
 .streamlit/secrets.toml
 .streamlit/**/secrets.toml
 
-# Local data files
-Dati Excel/
-*.xlsx
 
 # Logs
 *.log
